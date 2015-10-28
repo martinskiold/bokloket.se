@@ -1,0 +1,42 @@
+.dropdown_login_wrapper
+{
+	background-color: rgba(19,47,75,0.95);
+	position: absolute;
+	right: 25px;	
+	top: 90px;
+  	width:250px;
+  	height: 280px;
+  	display: none;
+  	transition:opacity 1s;
+  	-webkit-transition:opacity 1s;
+  	border-radius: 8px;
+  	padding:8px 18px;
+}
+
+.dropdown_register_user_wrapper
+{
+  background-color: rgba(19,47,75,0.95);
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  top: 90px;
+    width: 30%;
+    height: auto;
+    display: none;
+    transition:opacity 1s;
+    -webkit-transition:opacity 1s;
+    border-radius: 8px;
+    padding:8px 18px;
+}
+
+#close_dropdown_login
+{
+  position: absolute;
+  right: 10px;
+}
+
+#close_dropdown_register
+{
+  position: absolute;
+  right: 10px;
+}

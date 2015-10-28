@@ -1,0 +1,45 @@
+.bookWrapper
+{
+	width: 430px;
+	position: relative;
+	margin-top: 50px;
+	margin-left: 430px;
+	margin-bottom: 400px;
+}
+
+.bookCover
+{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-right: 10px;
+	border-radius: 8px;
+	margin-bottom: 100px;
+	box-shadow: 8px 8px 10px rgba(0,0,0,0.5);
+	height: 450px;
+	width: 300px;
+}
+
+.contactForm
+{
+	position: relative;
+	width: 245px;
+	margin-left: auto;
+	margin-right: auto;
+	top: -115px;
+}
+
+.bookshelf
+{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+.option
+{
+	margin-left: 50px;
+	float:left;
+}
+

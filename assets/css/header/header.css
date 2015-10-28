@@ -1,0 +1,19 @@
+.header
+{
+	/*gammal färg. 181,212,255*/
+	position: fixed;
+	z-index: 100;	
+	height: 80px;
+	top:0px;
+	right: 0px;
+	left:0px;
+	background-color: rgba(19,47,75,0.8);
+}
+
+.registrera_annons_wrapper
+{
+	position: absolute;
+	top: 6px;
+	right: 220px;
+}
+

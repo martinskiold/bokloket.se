@@ -1,0 +1,178 @@
+/* Imports */
+@import "content/content.css";
+@import "input_text.css";
+@import "button.css";
+@import "book_view.css";
+@import "search_view.css";
+@import "header/header.css";
+@import "header/search.css";
+@import "header/logotype.css";
+@import "header/login.css";
+@import "header/dropdown.css";
+@import "footer/footer.css";
+@import "content/registrera_annons/registrera_annons.css";
+
+*
+{
+  color: rgba(19,47,75,1);
+	padding: 0px;
+	font-family: helvetica;
+	font-size: 10pt;
+}
+
+body
+{
+   background: url(../img/bkg_img.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.link
+{
+  font-size: 8pt;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.home_menu
+{
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home_menu_link
+{
+  margin-left: 10px;
+  text-align: center;
+}
+
+
+.white
+{
+  color: white;
+}
+
+.inline
+{
+  display: inline-block;
+}
+
+h1
+{
+  font-size: 20pt;
+  font-weight: 500;
+}
+
+h2
+{
+  text-align: center;
+  font-size: 15pt;
+  font-weight: 600;
+}
+
+.text_center
+{
+  text-align: center;
+}
+
+.green
+ {
+  color: green;
+ }
+
+ .red
+ {
+  color: red;
+ }
+
+
+.glass_shelf
+{
+  position: relative;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 200px;
+}
+
+/* class som sätter strolek och effekter på de böcker som presenteras på förstasidan */
+
+.we_rec_news_head
+{
+  position: relative;
+  width: 200px;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.we_rec_ruler
+{
+  position: relative;
+  width: 700px;
+  margin-top: -305px;
+  margin-bottom: 50px;
+  box-shadow: 3px 5px 10px  rgba(0,0,0,0.5);
+}
+
+
+.news_ruler
+{
+  position: relative;
+  width: 700px;
+  
+  margin-bottom: 100px;
+  box-shadow: 3px 5px 10px  rgba(0,0,0,0.5);
+}
+
+
+/* class som sätter strolek och effekter på de böcker som presenteras på förstasidan */
+.recImg
+{
+  height: 210px;
+  width: 140px;
+
+  margin-left: 15px;  
+  border-radius: 8px;
+
+  box-shadow: 3px -2px 30px  rgba(0,0,0,0.5);
+
+  
+}
+
+.we_recommend /* div som innehåller de fyra böcker som presenteras */
+{
+  position: relative;
+  width: 800px; 
+  margin-top: 50px;
+  margin-left: 130px;
+  margin-right: auto;
+  margin-bottom: 300px;
+}
+
+.news_div /* div som innehåller de fyra böcker som presenteras */
+{
+  position: relative;
+  width: 800px; 
+  margin-top: 50px;
+  margin-left: 130px;
+  margin-right: auto;
+  margin-bottom: -10px;
+}
+
+
+
+
+
+
+
+
+

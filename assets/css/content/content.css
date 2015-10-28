@@ -1,0 +1,65 @@
+.content
+{
+	border-radius: 8px;
+  	padding:8px 18px;
+	position: relative;
+	top: 110px;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 35px;
+	background-color: rgba(244,255,255,0.8);
+	width: 900px;
+	height: auto;
+}
+
+.textarea
+{
+	position: relative;
+	margin-left: 230px;
+	margin-right: 230px;
+}
+
+.coverflow
+{
+	position: relative;
+	width: 700px;
+	top: 7px;
+	left: 95px;
+}
+
+.regcenter /*centrerar registreringsformuläret //tobias*/
+{
+	position: relative;
+	text-align:left; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 400px;
+	
+	/*border och färg*/
+
+	background-color: rgba(19,47,75, 0.9);
+	border-radius: 1%;
+}
+
+.regFields
+{
+	position: relative;
+	margin-left: 80px;
+	margin-right: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 250px;
+
+}
+
+.regh1
+{
+	position: relative;
+	margin-top: 50px;
+	color: white;
+	width: 300px;
+	font-size: 19pt;
+}

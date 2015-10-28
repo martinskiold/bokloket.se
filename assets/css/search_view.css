@@ -1,0 +1,45 @@
+.sokresultat_bild
+{
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
+.search_img
+{
+	height: 240px;
+	width: 170px;
+	border-radius: 8px;
+	box-shadow: 8px 8px 10px rgba(0,0,0,0.5);
+}
+
+.avatar
+{
+	height: 240px;
+	border-radius: 8px;
+	box-shadow: 8px 8px 10px rgba(0,0,0,0.5);
+}
+
+.sokresultat_alla
+{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 600px;
+}
+
+#search_ruler
+{
+	position: relative;
+}
+
+#search_title
+{
+	font-family: italic;
+	font-size: 20pt;
+  	font-weight: 700;
+}

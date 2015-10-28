@@ -1,0 +1,25 @@
+.logotype_wrapper{
+	position: absolute;
+	width: 250px;
+	height: 65px;
+	left: 28px;
+	top:19px;
+}
+
+.logotype
+{
+	height: 40px;
+}
+
+.logo_text
+{
+	position: absolute;
+	font-family: Comic Sans MS;
+	font-size: 10pt;
+	font-weight: 900;
+	color: rgb(19,47,75);
+	left: 67px;
+	top: 7px;
+	display: inline;
+	text-decoration: none;
+}

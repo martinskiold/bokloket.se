@@ -1,0 +1,45 @@
+/*centrerar registreringsformuläret //tobias*/
+.regcenter 
+{
+	position: relative;
+	text-align:left; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 400px;
+	
+	/*border och färg*/
+
+	background-color: rgba(19,47,75, 0.9);
+	border-radius: 1%;
+}
+
+.regFields
+{
+	position: relative;
+	margin-left: 80px;
+	margin-right: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 250px;
+
+}
+
+/*vit text till paragraferna i registrera_annons.php*/
+.wp
+{
+	color: white;
+	padding: 0px;
+	font-family: helvetica;
+	font-size: 10pt;
+}
+
+.regh1
+{
+	position: relative;
+	margin-top: 50px;
+	color: white;
+	width: 300px;
+	font-size: 19pt;
+}
